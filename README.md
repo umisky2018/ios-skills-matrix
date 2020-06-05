@@ -1,6 +1,9 @@
 ![iOS Developer Skills Matrix](matrix.png)
 
+[**中文**](README_cn.md)
+
 ## ☝️ What is it?
+
 A compilation of **indicators** about knowledge in a particular area of **iOS development**.
 
 ## ✌️ How to use it?
@@ -28,5 +31,5 @@ This [article](https://medium.com/ios-os-x-development/ios-developer-skills-matr
 | **Multithreading**          | asyncAfter is a friend, @synchronize all the things     | asyncAfter is an enemy, and thread synchronisation is a problem | understands multithreading problems beyond the deadlock                     |
 | **Attitude**                | expects others to teach and guide during development    | discusses design with the team to share decision                | takes responsibility for design decision made by teammates                  |
 | **Design Patterns**         | understands Delegation, Target-Action and MVC idea      | is proficient at Observer, Facade and Mediator patterns         | knows the sweet spot between dependency injection and service locator       |
-| **Product Quality**         | the app is tested if it works on my phone               | writes unit tests and tried TDD and UI tests                    | defines a maintainable test pyramid with non-overlapping coverage areas | 
+| **Product Quality**         | the app is tested if it works on my phone               | writes unit tests and tried TDD and UI tests                    | defines a maintainable test pyramid with non-overlapping coverage areas |
 
